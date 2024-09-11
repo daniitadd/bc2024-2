@@ -1,1 +1,1 @@
-<error>invalid request</error>
+[ { "dt": "20240801", "txt": "Доходи, усього", "txten": "Income, total", "id_api": "BS2_IncomeTotal", "leveli": 2, "parent": "BS2_NetProfitLoss", "freq": "M", "tzep": "f_m_vc", "value": 199193.0726 }, { "dt": "20240801", "txt": "Витрати, усього", "txten": "Expenses, total", "id_api": "BS2_ExpensesTotal", "leveli": 2, "parent": "BS2_NetProfitLoss", "freq": "M", "tzep": "f_m_vc", "value": 265793.3553 } ]
